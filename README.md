@@ -35,7 +35,26 @@ Description: This picture shows the detection of face, eyes, & mouth using openC
 
 Accuracy of detected face in live video
 
+![](https://github.com/Sindhuvm26/face-detection/blob/main/detect2.PNG)
+
 Description: This picture shows the detection of face in live video using openCV & haarcascade frontalface default, Convolutional neural network models as caffe models it helps to recognize person face.
+
+Accuracy of detected face
+
+![](https://github.com/Sindhuvm26/face-detection/blob/main/detect3.PNG)
+
+Description: This picture shows the detection of face in import image using openCV & haarcascade frontalface default classifier.
+
+Injured face detection with appropriate accuracy.
+
+https://github.com/Sindhuvm26/face-detection/blob/main/detect4.PNG
+
+Description: This picture shows the detection of injured face using OpenCV & haarcascade frontalface default, Convolutional neural network models as caffe models it helps to recognize injured part of the face.
+
+
+
+
+
 
 
 
