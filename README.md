@@ -47,7 +47,7 @@ Description: This picture shows the detection of face in import image using open
 
 Injured face detection with appropriate accuracy.
 
-https://github.com/Sindhuvm26/face-detection/blob/main/detect4.PNG
+![](https://github.com/Sindhuvm26/face-detection/blob/main/detect4.PNG)
 
 Description: This picture shows the detection of injured face using OpenCV & haarcascade frontalface default, Convolutional neural network models as caffe models it helps to recognize injured part of the face.
 
