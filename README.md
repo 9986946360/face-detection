@@ -29,7 +29,7 @@ OUTPUT
 
 Detecting face, eyes and mouth 
 
-![]()
+![](https://github.com/Sindhuvm26/face-detection/blob/main/detect1.PNG)
 
 
 
