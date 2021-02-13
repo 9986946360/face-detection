@@ -31,6 +31,13 @@ Detecting face, eyes and mouth
 
 ![](https://github.com/Sindhuvm26/face-detection/blob/main/detect1.PNG)
 
+Description: This picture shows the detection of face, eyes, & mouth using openCV and haarcascade frontalface default, haarcascade eye, haarcascade mcs mouth classifier.
+
+Accuracy of detected face in live video
+
+Description: This picture shows the detection of face in live video using openCV & haarcascade frontalface default, Convolutional neural network models as caffe models it helps to recognize person face.
+
+
 
 
 
