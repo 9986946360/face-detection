@@ -51,6 +51,11 @@ Injured face detection with appropriate accuracy.
 
 Description: This picture shows the detection of injured face using OpenCV & haarcascade frontalface default, Convolutional neural network models as caffe models it helps to recognize injured part of the face.
 
+Regards
+Name: Sindhu V M
+USN: 4VV19SCS12
+Details: Vidyavardaka College of Engineering, Mysuru
+
 
 
 
